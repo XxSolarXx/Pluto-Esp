@@ -1547,7 +1547,7 @@ function SubMenu:Hide()
 	CurrentColorPicker = nil;
 end
 
-function CreateMenu(NewPosition) -- Create Menu
+function CreateMenu(NewPosition)
 	MenuLoaded = false;
 	UIButtons  = {};
 	Sliders	   = {};
